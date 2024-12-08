@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"bu.godwill","l":"Main"},{"p":"bu.godwill","l":"TrafficClient"},{"p":"bu.godwill","l":"TrafficGenerator"}];updateSearchResults();
